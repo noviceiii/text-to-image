@@ -1,5 +1,6 @@
 # ASCII Art Image Generator
-This Bash script uses FFmpeg to create an image with ASCII art text. It allows for customization of the image's background color, size, text font, color, size, and positioning.
+This Bash script uses FFmpeg to create an image with ASCII art text. 
+It allows for customization of the image's background color, size, text font, color, size, and positioning.
 
 ## Features
 -  **Custom Text:** Pass any text as an argument to generate an image with that text in ASCII art.
